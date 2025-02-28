@@ -1,8 +1,6 @@
 import telebot
 import app
 from apiKey import apiKey
-import datetime
-import pytz
 
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual bot token
 BOT_TOKEN = apiKey
